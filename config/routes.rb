@@ -1,4 +1,4 @@
-RailsLandingPage::Application.routes.draw do
+Shortcut2::Application.routes.draw do
 
   resources :invitations
 
